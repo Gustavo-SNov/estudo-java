@@ -1,4 +1,4 @@
-package gui;
+package metodos.desenho;
 
 import javax.swing.JOptionPane;
 public class Addition

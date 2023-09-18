@@ -1,4 +1,4 @@
-package aula5;
+package metodos.ensino;
 
 import java.util.Scanner;
 
