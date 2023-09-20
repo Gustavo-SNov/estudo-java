@@ -1,4 +1,4 @@
-package enumeracao.composicao.ExComposicao.trabalhador;
+package enumeracao_composicao.ExComposicao.trabalhador;
 
 public enum WorkerLevel {
     JUNIOR,

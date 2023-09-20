@@ -1,4 +1,4 @@
-package enumeracao.composicao.ExComposicao.publicacao;
+package enumeracao_composicao.ExComposicao.publicacao;
 
 public class Comment {
     private String text;

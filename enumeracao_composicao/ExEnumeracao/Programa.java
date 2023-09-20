@@ -1,10 +1,10 @@
-package enumeracao.composicao.ExEnumeracao;
+package enumeracao_composicao.ExEnumeracao;
 
 import java.util.Date;
 public class Programa {
     public static void main(String[] args) {
 
-        Pedido order = new Pedido(1080, new Date(), StatusPedido.PAGAMENTO_PENDENDETE);
+        Pedido order = new Pedido(1080, new Date(), StatusPedido.PENDENTE);
 
         System.out.println(order);
 
