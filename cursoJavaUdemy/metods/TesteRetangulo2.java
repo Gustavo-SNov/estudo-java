@@ -1,4 +1,4 @@
-package cursoJavaUdemy.retangulo;
+package cursoJavaUdemy.metods;
 
 import java.util.Locale;
 import java.util.Scanner;

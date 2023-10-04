@@ -1,4 +1,4 @@
-package cursoJavaUdemy.retangulo;
+package cursoJavaUdemy.metods;
 
 public class Retangulo2 {
     public static double perimetro2 (double comprimento, double altura){

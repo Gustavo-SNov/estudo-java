@@ -1,4 +1,4 @@
-package cursoJavaUdemy.retangulo;
+package cursoJavaUdemy.metods;
 
 public class Retangulo {
     public double comprimento;
