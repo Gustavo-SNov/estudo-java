@@ -1,4 +1,4 @@
-package cursoJava.vetores_Listas.exemplos;
+package cursoJavaUdemy.vetores_Listas.exemplos;
 
 import java.util.Scanner;
 

@@ -3,6 +3,7 @@ package cursoJavaUdemy.enumeracao_composicao.ExComposicao.trabalhador;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
+
 public class Worker {
     private final String name;
     private final WorkerLevel level;
